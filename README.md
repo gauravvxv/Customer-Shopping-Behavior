@@ -64,6 +64,8 @@ Structured analysis was performed in **PostgreSQL** to answer key business quest
 
 ## 📊 Power BI Dashboard  
 An interactive **Power BI dashboard** was built to visually explore insights, allowing dynamic filtering through dropdown slicers and interactive charts.
+<img width="587" height="320" alt="Screenshot 2025-11-06 164735" src="https://github.com/user-attachments/assets/3d269a02-5c55-4e3d-8f67-3b4621ff5b62" />
+
 
 **Dashboard Highlights:**
 - 💰 Revenue by Gender & Age Group  
