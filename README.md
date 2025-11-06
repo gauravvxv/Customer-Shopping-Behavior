@@ -92,8 +92,7 @@ To effectively communicate insights and findings, a **Gamma AI presentation** wa
 
   Click below to view the interactive presentation built using **Gamma AI** 👇  
 
-[![View Presentation](<img width="2400" height="1350" alt="1_Customer-Shopping-Behavior-Analysis" src="https://github.com/user-attachments/assets/ffe1af52-7186-4d3f-b273-0c67184c8ea4" />
-)](https://docs.google.com/presentation/d/1xxh2kqay0U2z4AiJUDjfSXxzV2AjwSSM5P1qU7rP_Q0/edit?usp=sharing)
+[![View Presentation]](https://docs.google.com/presentation/d/1xxh2kqay0U2z4AiJUDjfSXxzV2AjwSSM5P1qU7rP_Q0/edit?usp=sharing)
 
 ---
 
