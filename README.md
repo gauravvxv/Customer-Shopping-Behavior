@@ -81,14 +81,19 @@ Dropdown slicers and filters allow dynamic analysis across multiple dimensions.
 
 ---
 
-## 🎥 Gamma AI Presentation  
+## 🎥 Gamma AI Presentation 
 To effectively communicate insights and findings, a **Gamma AI presentation** was designed.  
 
 **Features:**
 - AI-generated slide designs for clean, modern visuals.  
 - Automated content summarization for executive storytelling.  
 - Integrated charts and visuals from Power BI exports.  
-- Perfect for **portfolio showcasing** and **data storytelling** in interviews or client demos.  
+- Perfect for **portfolio showcasing** and **data storytelling** in interviews or client demos.
+
+  Click below to view the interactive presentation built using **Gamma AI** 👇  
+
+[![View Presentation](<img width="2400" height="1350" alt="1_Customer-Shopping-Behavior-Analysis" src="https://github.com/user-attachments/assets/736840cb-9e5a-4c33-9dce-a5d14ba0e0e9" />
+)](https://docs.google.com/presentation/d/1xxh2kqay0U2z4AiJUDjfSXxzV2AjwSSM5P1qU7rP_Q0/edit?usp=sharing)
 
 ---
 
