@@ -92,7 +92,7 @@ To effectively communicate insights and findings, a **Gamma AI presentation** wa
 
   Click below to view the interactive presentation built using **Gamma AI** 👇  
 
-[![View Presentation]](https://docs.google.com/presentation/d/1xxh2kqay0U2z4AiJUDjfSXxzV2AjwSSM5P1qU7rP_Q0/edit?usp=sharing)
+[View Presentation](https://docs.google.com/presentation/d/1xxh2kqay0U2z4AiJUDjfSXxzV2AjwSSM5P1qU7rP_Q0/edit?usp=sharing)
 
 ---
 
